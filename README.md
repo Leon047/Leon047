@@ -28,12 +28,10 @@
 #### Tᴏᴏʟs
 ![Docker](https://img.shields.io/badge/Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
-
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Vim](https://img.shields.io/badge/Vim-green?style=flat-square&logo=Vim)
 ![Tmux](https://img.shields.io/badge/Tmux-blue?style=flat-square&logo=Tmux)
 ![VSCode](https://img.shields.io/badge/VSCode-9788E2?style=flat-square&logo=VSCode)
-
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
